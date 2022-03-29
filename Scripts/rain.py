@@ -30,8 +30,8 @@ def run():
                     size=14,
                     family='Arial, sans-serif')
             ),
-            x=[1, 2, 3, 4, 5],
-            y=[11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]
+            x=[21, 22, 23, 24, 25],
+            y=[2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021]
         ),
         layout=dict(title='Eminence, Indiana Precipitation', xaxis=dict(title='July 21 - 25', dtick=1), yaxis=dict(title='2011 - 2021', dtick=1))
     )
